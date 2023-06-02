@@ -32,10 +32,12 @@ Because we use the `github.io` server
 license from the Pop-Apple.github.io repository.  
 Please confirm the license from the [`Pop-Apple.github.io`](https://github.com/Pop-Apple/Pop-Apple.github.io) repository.  
 
-## Client
+---
 
-[Pop-Apple](https://github.com/Pop-Apple)
+### Client
 
-[Korozin](https://github.com/Korozin)
+* [Pop-Apple](https://github.com/Pop-Apple)
+
+* [Korozin](https://github.com/Korozin)
 
 > Unknown
