@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/size/Pop-Apple/Korozin_/index.html?color=pink&style=flat-square">
+<img src="https://img.shields.io/github/size/Pop-Apple/Korozin_/korozin.js?color=pink&style=flat-square">
 
 ### [Korozin_](https://Pop-Apple.github.io/Korozin_/)
 
