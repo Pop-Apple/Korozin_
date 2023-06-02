@@ -1,32 +1,43 @@
 <img src="https://img.shields.io/github/size/Pop-Apple/Korozin_/index.html?color=pink&style=flat-square">
 
-[Gankochan Praises Me](https://sakamochanq.github.io/archive/gankochan/)
+### [Korozin_](https://Pop-Apple.github.io/Korozin_/)
 
-## Ganko chan Praises Me.
+## Coding Korozin
 
-Ideal when you are feeling down and need someone to cheer you up!  
-Always smiling and cheerful,  
-Ganko-chan will make you smile a lot.  
+Bored Korozin will write **HelloWorld** forever in Python ! 
 
-## How to Play
+```python
+print("Hello World");
+```
+## Summary
 
-Anyway, cheer up and press the green button.  
-You will be smiling in no time.  
+We created this site as an exercise in HTML CSS Javascript.  
+Korozin will be coding HelloWorld in Python forever.  
+I may add another code if I feel like it.  
+
+HTML, Javascript practice.  
+To colour the text of `print("Hello, World")`.  
+Separate all characters with <span> tags and use Javascript to  
+Timeout function to display them in order.  
+There are better ways to do this.  
 
 ### screenshot
 
-<img width="250px" src="https://github.com/Sakamochanq/Sakamochanq.github.io/blob/master/archive/gankochan/assets/screenshot.png">
+<img width="350px" src="https://github.com/Pop-Apple/Korozin/blob/master/assets/Screenshot.png">
 
 ---
 
 ## License
 
+[MIT](https://github.com/Pop-Apple/Korozin_/blob/master/LICENSE) License.
 Because we use the `github.io` server  
-license from the Sakamochan.github.io repository.  
-Please confirm the license from the [`Sakamochan.github.io`](https://github.com/Sakamochanq/Sakamochanq.github.io) repository.  
+license from the Pop-Apple.github.io repository.  
+Please confirm the license from the [`Pop-Apple.github.io`](https://github.com/Pop-Apple/Pop-Apple.github.io) repository.  
 
 ## Client
 
-@zawamori__ganko
+[Pop-Apple](https://github.com/Pop-Apple)
+
+[Korozin](https://github.com/Korozin)
 
 > Unknown
