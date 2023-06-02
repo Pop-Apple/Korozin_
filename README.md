@@ -4,7 +4,7 @@
 
 ## Coding Korozin
 
-Bored Korozin will write **HelloWorld** forever in Python ! 
+Bored Korozin will write **HelloWorld** in Python ! 
 
 ```python
 print("Hello World");
@@ -12,12 +12,10 @@ print("Hello World");
 ## Summary
 
 We created this site as an exercise in HTML CSS Javascript.  
-Korozin will be coding HelloWorld in Python forever.  
-I may add another code if I feel like it.  
-
+Korozin will be coding HelloWorld in Python  
 HTML, Javascript practice.  
-To colour the text of `print("Hello, World")`.  
-Separate all characters with <span> tags and use Javascript to  
+To colour the text of print("Hello, World").  
+Separate all characters with tags and use Javascript to  
 Timeout function to display them in order.  
 There are better ways to do this.  
 
