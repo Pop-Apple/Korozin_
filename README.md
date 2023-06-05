@@ -14,10 +14,12 @@ print("Hello World");
 We created this site as an exercise in HTML CSS Javascript.  
 Korozin will be coding HelloWorld in Python  
 HTML, Javascript practice.  
+<!--
 To colour the text of print("Hello, World").  
 Separate all characters with tags and use Javascript to  
 Timeout function to display them in order.  
 There are better ways to do this.  
+-->
 
 ### screenshot
 
